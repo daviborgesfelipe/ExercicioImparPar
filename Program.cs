@@ -12,7 +12,12 @@ namespace ExercicioImparPar
             Console.Write("Digite um número: ");
             numero = Convert.ToInt32(Console.ReadLine());
 
-            if(numero % 2 == 0)
+            int resultado = numero % 2;
+            /*variavel inteira o resultado é igual a variavel numero dividido por dois*/
+            bool comparacao = resultado == 0;
+            /*variavel boleana comparacao é igual a variavel resultado comparado ao numero zero*/
+
+            if(comparacao)
             {
                 Console.WriteLine($"O número {numero} é par.");   
             }
