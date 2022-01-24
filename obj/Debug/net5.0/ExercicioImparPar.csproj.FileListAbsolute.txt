@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ExercicioImparPar.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ExercicioImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ExercicioImparPar.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ExercicioImparPar.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ExercicioImparPar.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicioImparPar\bin\Debug\net5.0\ExercicioImparPar.exe
+C:\xampp\htdocs\udemy\ExercicioImparPar\bin\Debug\net5.0\ExercicioImparPar.deps.json
+C:\xampp\htdocs\udemy\ExercicioImparPar\bin\Debug\net5.0\ExercicioImparPar.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicioImparPar\bin\Debug\net5.0\ExercicioImparPar.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicioImparPar\bin\Debug\net5.0\ExercicioImparPar.dll
+C:\xampp\htdocs\udemy\ExercicioImparPar\bin\Debug\net5.0\ref\ExercicioImparPar.dll
+C:\xampp\htdocs\udemy\ExercicioImparPar\bin\Debug\net5.0\ExercicioImparPar.pdb
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ExercicioImparPar.dll
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ref\ExercicioImparPar.dll
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ExercicioImparPar.pdb
+C:\xampp\htdocs\udemy\ExercicioImparPar\obj\Debug\net5.0\ExercicioImparPar.genruntimeconfig.cache
